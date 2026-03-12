@@ -98,6 +98,3 @@ If given more time on this sprint, I would look to implement:
 - **Debounced Server-Side Searching:** Allowing the search bar to actively ping the API instead of filtering just the local front-end array.
 - **Persistent Local Storage:** Saving user's "Title edits" directly to browser `localStorage` or `sessionStorage` so refreshing the Vite layout retains state modifications.
 - **Unit Testing:** Implement `Vitest` and `React Testing Library` coverage covering API mock intercepts and the custom hook intersection tracking.
-
----
-**Author:** Built with ❤️ for the Fullstack/Frontend Engineer Internship Assignment.
