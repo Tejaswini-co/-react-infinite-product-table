@@ -3,7 +3,7 @@
 > A production-quality React application demonstrating frontend engineering fundamentals, custom infinite scroll, dynamic state management, and modern UI design. Built specifically for the Frontend Engineer Intern Assignment.
 
 ## 🚀 Live Demo & Links
-- **Live Deployment:** [Insert Vercel URL Here]
+- **Live Deployment:** [https://react-infinite-product-table.vercel.app](https://react-infinite-product-table.vercel.app)
 - **Repository:** https://github.com/Tejaswini-co/-react-infinite-product-table
 
 ---
